@@ -5,9 +5,11 @@ Usando BITS, o script baixa e coloca na mesma pasta de onde ele está os arquivo
 
 ## Programas baixados
 * VSCode
-* Rider
+* dotMemory e dotTrace (dotUltimate)
+* DataGrip
 * GitHub Desktop
 * SQL Server Express
+* SQL Server Express LocalDB
 * SQL Server Management Studio
 
 ### Como usar
